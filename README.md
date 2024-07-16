@@ -84,7 +84,7 @@ export default HomePage;
 The 3D model (`can.obj`) can be replaced with any other model. Place your model in the `public/models` directory and update the path in `ColdDrink.js`.
 
 ## Demo
-![Demo Video](link-to-your-demo-video)
+![Demo Video](https://youtu.be/qt6FOVpoMiE)
 
 ## Contributing
 
